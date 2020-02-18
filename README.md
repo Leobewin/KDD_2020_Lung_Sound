@@ -5,8 +5,8 @@ This repository contains an open access lung breathing sound database used for t
 Unzip the files to get two folders, train and test, which are the training dataset and testing dataset used in a study currently 
 submitted to KDD 2020.
 
-Inside the folders you can find 15-second-long lung sound recordings and the corresponding labels. In total, including 6868 15-second 
-long audio files, 24259 inhalation labels and 14958 exhalation labels.
+Inside the folders you can find 15-second-long lung sound recordings and the corresponding labels, including 6868 15-second 
+long audio files, 24259 inhalation labels and 14958 exhalation labels in total.
 
 The filename of the truncated 15-second long audio files recorded by the digital stethoscope Littmann 3200 is prefixed by “steth_”. 
 The filename of 15-second-long audio files recorded by a multichannel acoustic recording device, AccurSound, is prefixed by “trunc_”.  

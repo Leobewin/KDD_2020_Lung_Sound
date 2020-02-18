@@ -1,5 +1,7 @@
 # KDD_2020_Lung_Sound
 
+This repository contains the an open access lung breathing sound database used for the development of automated breath phase detection algorithms.
+
 Unzip the files to get two folders, train and test, which are the training dataset and testing dataset used in a study currently 
 submitted to KDD 2020.
 

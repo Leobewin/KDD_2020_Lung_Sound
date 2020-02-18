@@ -17,6 +17,9 @@ L2 represents the 5th ICS in the rigt MCL, L3 repsresents the 4th ICS in the rig
 the right MAL, L5 represents the 2nd ICS in the left MCL, L6 represents the 5th ICS in the left MCL, L7 represents the 4th ICS in the 
 left MAL and L8 represents the 10th ICS in the left MCL.
 
+The files with the same date are very likely collected from the same subject with only short time intervals between each other; hence we
+suggest that the files with the same date should be assigned to only one of the following datasets, training, validation or testing.
+
 The inhalation and exhalation labels are saved in Text (.txt) format. 
 The filename of the labels has the same beginning as the filename of corresponding audio file but is suffixed by “_label”. 
 The date on the filename is randomly shifted for the purpose of de-identification.
